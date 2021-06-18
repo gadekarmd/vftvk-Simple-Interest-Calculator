@@ -9,7 +9,7 @@ h1{
 }
 .maindiv{
     background-color:white;
-	margin:0 auto;
+	align-items:center;
     color:black;
     width:300px;
     padding:20px;
